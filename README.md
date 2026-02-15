@@ -1,5 +1,6 @@
 # Readalyzer-AI
 Readalyzer is a local RAG (Retrieval-Augmented Generation) application that allows you to "talk" to your documents. It uses FastAPI for a robust backend, Streamlit for a sleek user interface, and Ollama to run the Mistral LLM entirely on your local machine ensuring your data stays private.
+![image alt](https://github.com/HesaraPVT/Readalyzer-AI/blob/49a70fd1c9d83981ec688a5107bd233a6f410fa0/Readalyzer.png)
 
 # **Features**
 * Multi-Format Support: Upload and index .pdf, .docx, and .txt files.
