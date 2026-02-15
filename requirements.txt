@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+requests
+langchain
+langchain-huggingface
+langchain-chroma
+langchain-ollama
+langchain-community
+chromadb
+streamlit
+sentence-transformers
+pymupdf
+python-docx
