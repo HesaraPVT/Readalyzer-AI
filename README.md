@@ -11,9 +11,10 @@ Readalyzer is a local RAG (Retrieval-Augmented Generation) application that allo
 Before you start, ensure you have the following installed:
 1. Python 3.10+
 2. Ollama: [https://ollama.com](https://ollama.com/)
-3. Mistral Model: Once Ollama is installed, run **ollama pull mistral** in CMD.
+3. Mistral Model: Once Ollama is installed, run
+   ```ollama pull mistral``` in CMD.
 
 # **Installation & Setup**
 1.Clone the Repository
-```git clone https://github.com/your-username/readalyzer.git
-cd readalyzer```
+```git clone https://github.com/your-username/readalyzer.git```
+```cd readalyzer```
